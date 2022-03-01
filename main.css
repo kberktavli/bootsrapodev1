@@ -1,0 +1,23 @@
+
+.list{
+    list-style-type: none;
+    margin-right: 40px;
+    
+}
+
+body{
+    background-color: #E9ECEF;
+
+}
+
+.card1 {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: 200px;
+}
